@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Wellfleet&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Wellfleet', cursive;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+.navbar {
+    background-color: #E2E2E2;
+}
+
+/*navbar styling*/
+.container {
+    margin: auto;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 0 16px 0;
+    color: #135C33;
+}
+
+.nav-links a {
+    color: #135C33;
+}
+
+.nav-links .button-like {
+    color: #e2e2e2;
+}
+
+/*logo*/
+.logo {
+    font-size: 48px;
+}
+
+/*menu*/
+.menu {
+    display: flex;
+    gap: 1em;
+    font-size: 18px;
+}
+
+/* .menu li:hover {
+    background-color: #4c9e9e;
+    border-radius: 5px;
+    transition: 0.3s ease;
+} */
+
+.menu li {
+    padding: 5px 14px;
+}
+
+.button-like {
+    background-color: #135C33;
+    padding: 0.5em 2em 0.5em 2em;
+    border-radius: 3px;
+}
+
+
