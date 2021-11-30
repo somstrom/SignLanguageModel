@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Wellfleet&display=swap');
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+.navbar {
+    background-color: #E2E2E2;
+}
+
+.header {
+    padding: 16px 0 16px 0;
+    color: #135C33;
+}
+
+/*navbar styling*/
+.container {
+    margin: auto;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.nav-links a {
+    color: #135C33;
+}
+
+/*logo*/
+.logo {
+    font-size: 48px;
+}
+
+/*menu*/
+.menu {
+    display: flex;
+    gap: 1em;
+    font-size: 18px;
+}
+
+.menu li {
+    padding: 5px 14px;
+}
+
+
+
