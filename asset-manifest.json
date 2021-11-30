@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/somstrom/SignLanguageModel/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/somstrom/SignLanguageModel/static/js/main.416d8713.chunk.js",
+    "main.js.map": "/somstrom/SignLanguageModel/static/js/main.416d8713.chunk.js.map",
+    "runtime-main.js": "/somstrom/SignLanguageModel/static/js/runtime-main.31b3f92b.js",
+    "runtime-main.js.map": "/somstrom/SignLanguageModel/static/js/runtime-main.31b3f92b.js.map",
+    "static/js/2.722cad22.chunk.js": "/somstrom/SignLanguageModel/static/js/2.722cad22.chunk.js",
+    "static/js/2.722cad22.chunk.js.map": "/somstrom/SignLanguageModel/static/js/2.722cad22.chunk.js.map",
+    "static/js/3.42345c1c.chunk.js": "/somstrom/SignLanguageModel/static/js/3.42345c1c.chunk.js",
+    "static/js/3.42345c1c.chunk.js.map": "/somstrom/SignLanguageModel/static/js/3.42345c1c.chunk.js.map",
+    "index.html": "/somstrom/SignLanguageModel/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/somstrom/SignLanguageModel/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.722cad22.chunk.js.LICENSE.txt": "/somstrom/SignLanguageModel/static/js/2.722cad22.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/somstrom/SignLanguageModel/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31b3f92b.js",
+    "static/js/2.722cad22.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.416d8713.chunk.js"
+  ]
+}
